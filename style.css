@@ -44,6 +44,9 @@ padding: 10px;
 .register-form {
   padding: 30px;
 }
+.form-group {
+  margin-bottom: 10px;
+}
 .register-right .btn-primary {
   float: right;
   border-radius: 1.5rem;
